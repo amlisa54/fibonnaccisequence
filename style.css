@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(44, 64, 82);
+  
+}
+.container{
+    height: 100;
+    width: 500;
+    margin-top: 150px;
+    margin-left: 220px;
+    margin-right: 220px;
+    border-radius: 15px;
+    background-color: rgb(13, 38, 60);
+    font-size: 20px;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom:25px;
+    
+
+} 
+ 
+button{
+    
+    font-family:cursive;
+    font-size:20px;
+    background-color:rgb(242, 233, 233);
+    border-radius: 10px;
+    margin-bottom: 10px;
+    border:solid;
+    cursor:pointer;
+            
+}
+button:hover{
+    background-color: rgb(44, 64, 82);
+    color: aliceblue;
+    transition: 0.4ms;
+}
+input{
+    border-radius: 10px;
+    font-size: 15px;
+    font-family:cursive;
+    color:  rgb(1, 31, 22);
+    border: solid;
+}
+h1{
+    font-family:cursive;
+}
